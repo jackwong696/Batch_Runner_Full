@@ -1,0 +1,30 @@
+﻿Batch Runner Change Log 
+Version 1.0.0.0 [20160823]
+- Added new interface/GUI.
+- Added simple form icon. 
+
+Version 1.0.0.1 [20160824]
+- Added exe file icon. 
+- Added features to filter out .cmd files and list all the file available in the folder. 
+- Added a box show the list of files included. 
+
+Version 1.0.0.2 [20160825]
+- Fixed batch files filter problem. 
+- Added new feature for user to multi-select files. 
+
+Version 1.0.0.3 [20160830]
+- Fixed bugs when running multiple batch files. 
+
+Version 1.0.0.4 [20160831]
+- Fixed sample batch scripts 7 zip backup script. 
+- Automate sample batch scripts raw windows backup script. 
+- User control will stick to the edge when maximize. 
+
+
+
+
+
+
+
+
+

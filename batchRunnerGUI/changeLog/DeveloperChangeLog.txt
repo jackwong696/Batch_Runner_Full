@@ -1,0 +1,52 @@
+﻿Batch Runner Change Log 
+Version 1.0.0.0 [20160823]
+- Design a General GUI for batch runner. [Solve]
+- find the filter for openFileDialog. [Solve] 
+- path textbox does not show the file path. [Solve] 
+- change initial directory. [Solve]
+- Creata a sample script file. [Solve] 
+- filter out the path and file name from  openFileDialog1.FileName . [Solve]
+- Create a simple icon for batch runner. [Solve]
+
+Version 1.0.0.1 [20160824]
+- Add program exe icon. [Solve] 
+- Add new filter for all files. [Solve] 
+- Add new filter for cmd files. [Solve] 
+- Add new features to open multiple batch files. {batchRunner Lib} {Batch Runner GUI} [Solve] 
+
+Version 1.0.0.2 [20160825]
+- Enable multi select [Solve] 
+- Unable to filter out Batch files. [Solve]  
+
+Version 1.0.0.3 [20160826-20160830] 
+- Check running multi batch files. {bug} [Solve]  -- remark : debug through the batch runner library. 
+- lwCount wrong making the list index to be overwrite when new batch files are added. [Solve] 
+- remove initialization for _fileNameList in constructor. [Solve] - re-initialize at var declaration.  
+
+Version 1.0.0.4 [20160831]
+- Fixed sample batch scripts 7 zip backup script. 
+- Automate sample batch scripts raw windows backup script. 
+- Enable user control to align to form edge when maximize.  
+
+Version 1.0.0.3 [20160826]
+- 
+
+Version 1.0.0.3 [20160826]
+- 
+
+Version 1.0.0.3 [20160826]
+Version 1.0.0.3 [20160826]
+Version 1.0.0.3 [20160826]
+Version 1.0.0.3 [20160826]
+Version 1.0.0.3 [20160826]
+Version 1.0.0.3 [20160826]
+
+
+
+
+
+
+
+
+
+

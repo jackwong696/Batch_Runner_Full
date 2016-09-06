@@ -1,0 +1,21 @@
+﻿GlobalVar Change Log 
+Version 1.0.0.0 [20160825]
+- Use several list to store all the global var. [On-Hold]
+- 
+- 
+
+Version 1.0.0.1
+- 
+- 
+- 
+
+
+
+
+
+
+
+
+
+
+
